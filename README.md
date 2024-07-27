@@ -38,7 +38,6 @@ diamond_price_prediction/
 │   ├── logger.py
 │   ├── pipelines
 │   │   ├── __init__.py
-│   │   ├── __pycache__
 │   │   │   ├── __init__.py
 │   │   │   └── prediction_pipeline.py
 │   │   ├── prediction_pipeline.py
